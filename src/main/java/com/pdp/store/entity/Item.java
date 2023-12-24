@@ -24,8 +24,6 @@ public class Item {
     @NotBlank
     private String description;
 
-    @NotBlank
     private Double price;
-
     private String path;
 }
